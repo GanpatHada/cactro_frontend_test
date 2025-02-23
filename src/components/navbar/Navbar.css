@@ -1,0 +1,43 @@
+#main-nav{
+    background-color: #2f354a;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+#main-nav #logo h1{
+    font-size: 1.5rem;
+    font-weight: normal;
+    &::first-letter{
+        color: #66cdaa;
+    }
+}
+#main-nav  ul{
+    display: flex;
+    gap: 0.5rem;
+    color: lightgray;
+}
+#main-nav  ul li{
+    font-size: 0.9rem;
+}
+#main-nav #navs ul{
+    gap: 1.7rem;
+}
+#main-nav #navs ul li{
+    cursor: pointer;
+   
+}
+#main-nav #navs ul > li:first-child{
+    border-bottom: 1px solid #66cdaa;
+}
+#main-nav #secondary-navs #notification{
+    font-size: 1.5rem;
+}
+#main-nav #profile{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 1rem;
+    background-color: gray;
+    overflow: hidden;
+}
