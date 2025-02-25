@@ -1,0 +1,47 @@
+[
+    {
+        "employeeName":"Maria",
+        "position":"UX-designer",
+        "mood":{
+            "emoji":"😔",
+            "meaning":"SAD"
+        },
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpF3IRjq3K2vF74PNI4mpc-kzYwXmegSupg&s"
+    },
+    {
+        "employeeName":"Andria",
+        "position":"Backend developer",
+        "mood":{
+            "emoji":"😡",
+            "meaning":"ANGRY"
+        },
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9zilY2Yu2hc19pDZFxgWDTUDy5DId7ITqA&s"
+    },
+    {
+        "employeeName":"Alvaro",
+        "position":"Frontend developer",
+       "mood":{
+            "emoji":"😐",
+            "meaning":"NORMAL"
+        },
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf4-o4CssCyvZoodUUKQjDHzsInmKyvWCsg&s"
+    },{
+        "employeeName":"Juaan",
+        "position":"Marketing",
+        "mood":{
+            "emoji":"😃",
+            "meaning":"HAPPY"
+        },
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2yaox2cALIq_yyd-9qEyovEsficJr7X9QQ&s"
+    }
+    ,{
+        "employeeName":"JOSE",
+        "position":"QA-Engineer",
+        "mood":{
+            "emoji":"😂",
+            "meaning":"LAUGHING"
+        },
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysBwIksSpPxexd4Pi18pBK5AHgi63orl4OQ&s"
+    }
+
+]

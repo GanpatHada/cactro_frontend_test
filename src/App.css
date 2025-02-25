@@ -7,6 +7,5 @@
 
 #app-content{
   flex: 1;
-  background-color: yellow;
   display: flex;
 }

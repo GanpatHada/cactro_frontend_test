@@ -1,4 +1,6 @@
 #main-footer{
-    background-color: var(--primary-color);
     color: whitesmoke;
+    background-color: #2f354a;
+    padding: 0.5rem;
+    text-align: center;
 }

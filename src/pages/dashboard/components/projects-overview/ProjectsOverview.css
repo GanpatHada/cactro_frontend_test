@@ -1,0 +1,39 @@
+#projects-overview{
+    background-color: white;
+    display: grid;
+    padding: 2rem;
+    gap: 2rem;
+    grid-auto-rows: auto;
+    grid-template-columns:repeat(auto-fit,minmax(100px, 1fr));
+}
+#projects-overview > div{
+    position: relative;
+    aspect-ratio: 1/0.5;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+#projects-overview > div p{
+    font-size: 0.9rem;
+    color: gray;
+}
+#projects-overview > div#delayed-projects-box{
+    background-color: rgb(255, 109, 109);
+    color: white!important;
+}
+#projects-overview > div#delayed-projects-box p{
+    color: white;
+}
+#projects-overview > div#delayed-projects-box span{
+    color: red;
+}
+#projects-overview > div span{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: rgb(0, 255, 170);
+    font-size: 120%;
+    
+}
