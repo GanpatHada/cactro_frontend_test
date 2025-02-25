@@ -2,7 +2,7 @@
 
 ## 🌎 Live Demo
 
-[live link](https://cactro-frontend-test.netlify.app/)
+[Link](https://cactro-frontend-test.netlify.app/)
 
 
 
